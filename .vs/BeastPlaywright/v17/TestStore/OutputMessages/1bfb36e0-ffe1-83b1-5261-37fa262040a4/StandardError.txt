@@ -1,0 +1,234 @@
+2023-02-03T11:40:25.611Z pw:api navigating to "https://btube-app.onrender.com/", waiting until "load"
+2023-02-03T11:40:26.274Z pw:api   "commit" event fired
+2023-02-03T11:40:26.274Z pw:api   navigated to "https://btube-app.onrender.com/"
+2023-02-03T11:40:27.342Z pw:api   "load" event fired
+2023-02-03T11:40:27.343Z pw:api   "domcontentloaded" event fired
+2023-02-03T11:40:27.794Z pw:api   navigated to "https://btube-app.onrender.com/#/"
+2023-02-03T11:40:28.018Z pw:api waiting for navigation until "load"
+2023-02-03T11:40:28.105Z pw:api   "commit" event fired
+2023-02-03T11:40:28.106Z pw:api   navigated to "https://btube-app.onrender.com/#/"
+2023-02-03T11:40:28.106Z pw:api   navigated to "https://btube-app.onrender.com/#/"
+2023-02-03T11:40:28.233Z pw:api   "load" event fired
+2023-02-03T11:40:28.234Z pw:api   "domcontentloaded" event fired
+2023-02-03T11:40:28.394Z pw:api waiting for Locator("xpath=//button[@id='RegisterButton']")
+2023-02-03T11:40:28.476Z pw:api   locator resolved to <button class="css-yioxow" id="RegisterButton">Register</button>
+2023-02-03T11:40:28.481Z pw:api attempting click action
+2023-02-03T11:40:28.482Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:28.641Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:28.641Z pw:api   scrolling into view if needed
+2023-02-03T11:40:28.643Z pw:api   done scrolling
+2023-02-03T11:40:28.651Z pw:api   <div class="css-1yo793j">ÔÇª</div> intercepts pointer events
+2023-02-03T11:40:28.651Z pw:api retrying click action, attempt #1
+2023-02-03T11:40:28.651Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:28.752Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:28.752Z pw:api   scrolling into view if needed
+2023-02-03T11:40:28.755Z pw:api   done scrolling
+2023-02-03T11:40:28.759Z pw:api   <div class="css-1yo793j">ÔÇª</div> intercepts pointer events
+2023-02-03T11:40:28.759Z pw:api retrying click action, attempt #2
+2023-02-03T11:40:28.759Z pw:api   waiting 20ms
+2023-02-03T11:40:28.788Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:28.820Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:28.820Z pw:api   scrolling into view if needed
+2023-02-03T11:40:28.823Z pw:api   done scrolling
+2023-02-03T11:40:28.825Z pw:api   <div class="css-1yo793j">ÔÇª</div> intercepts pointer events
+2023-02-03T11:40:28.826Z pw:api retrying click action, attempt #3
+2023-02-03T11:40:28.826Z pw:api   waiting 100ms
+2023-02-03T11:40:28.928Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:28.966Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:28.966Z pw:api   scrolling into view if needed
+2023-02-03T11:40:28.968Z pw:api   done scrolling
+2023-02-03T11:40:28.970Z pw:api   <div class="css-1yo793j">ÔÇª</div> intercepts pointer events
+2023-02-03T11:40:28.970Z pw:api retrying click action, attempt #4
+2023-02-03T11:40:28.970Z pw:api   waiting 100ms
+2023-02-03T11:40:29.076Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:29.119Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:29.119Z pw:api   scrolling into view if needed
+2023-02-03T11:40:29.120Z pw:api   done scrolling
+2023-02-03T11:40:29.122Z pw:api   <div class="css-1yo793j">ÔÇª</div> intercepts pointer events
+2023-02-03T11:40:29.122Z pw:api retrying click action, attempt #5
+2023-02-03T11:40:29.122Z pw:api   waiting 500ms
+2023-02-03T11:40:29.630Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:29.649Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:29.649Z pw:api   scrolling into view if needed
+2023-02-03T11:40:29.650Z pw:api   done scrolling
+2023-02-03T11:40:29.653Z pw:api   <div class="css-1yo793j">ÔÇª</div> intercepts pointer events
+2023-02-03T11:40:29.653Z pw:api retrying click action, attempt #6
+2023-02-03T11:40:29.653Z pw:api   waiting 500ms
+2023-02-03T11:40:30.287Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:30.596Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:30.596Z pw:api   scrolling into view if needed
+2023-02-03T11:40:30.599Z pw:api   done scrolling
+2023-02-03T11:40:30.602Z pw:api   <div class="css-1yo793j">ÔÇª</div> intercepts pointer events
+2023-02-03T11:40:30.602Z pw:api retrying click action, attempt #7
+2023-02-03T11:40:30.602Z pw:api   waiting 500ms
+2023-02-03T11:40:31.104Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:31.134Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:31.134Z pw:api   scrolling into view if needed
+2023-02-03T11:40:31.135Z pw:api   done scrolling
+2023-02-03T11:40:31.140Z pw:api   <div class="css-1yo793j">ÔÇª</div> intercepts pointer events
+2023-02-03T11:40:31.140Z pw:api retrying click action, attempt #8
+2023-02-03T11:40:31.140Z pw:api   waiting 500ms
+2023-02-03T11:40:31.647Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:31.668Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:31.668Z pw:api   scrolling into view if needed
+2023-02-03T11:40:31.669Z pw:api   done scrolling
+2023-02-03T11:40:31.673Z pw:api   <div class="css-1yo793j">ÔÇª</div> intercepts pointer events
+2023-02-03T11:40:31.673Z pw:api retrying click action, attempt #9
+2023-02-03T11:40:31.673Z pw:api   waiting 500ms
+2023-02-03T11:40:32.178Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:32.203Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:32.203Z pw:api   scrolling into view if needed
+2023-02-03T11:40:32.204Z pw:api   done scrolling
+2023-02-03T11:40:32.209Z pw:api   <div class="css-1yo793j">ÔÇª</div> intercepts pointer events
+2023-02-03T11:40:32.209Z pw:api retrying click action, attempt #10
+2023-02-03T11:40:32.209Z pw:api   waiting 500ms
+2023-02-03T11:40:32.710Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:32.733Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:32.733Z pw:api   scrolling into view if needed
+2023-02-03T11:40:32.734Z pw:api   done scrolling
+2023-02-03T11:40:32.737Z pw:api   <div class="css-1yo793j">ÔÇª</div> intercepts pointer events
+2023-02-03T11:40:32.737Z pw:api retrying click action, attempt #11
+2023-02-03T11:40:32.737Z pw:api   waiting 500ms
+2023-02-03T11:40:33.238Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:33.266Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:33.266Z pw:api   scrolling into view if needed
+2023-02-03T11:40:33.267Z pw:api   done scrolling
+2023-02-03T11:40:33.270Z pw:api   <div class="css-1yo793j">ÔÇª</div> intercepts pointer events
+2023-02-03T11:40:33.270Z pw:api retrying click action, attempt #12
+2023-02-03T11:40:33.270Z pw:api   waiting 500ms
+2023-02-03T11:40:33.771Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:33.783Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:33.783Z pw:api   scrolling into view if needed
+2023-02-03T11:40:33.784Z pw:api   done scrolling
+2023-02-03T11:40:33.786Z pw:api   performing click action
+2023-02-03T11:40:33.799Z pw:api   navigated to "https://btube-app.onrender.com/#/register"
+2023-02-03T11:40:33.815Z pw:api   click action done
+2023-02-03T11:40:33.815Z pw:api   waiting for scheduled navigations to finish
+2023-02-03T11:40:33.817Z pw:api   navigations have finished
+2023-02-03T11:40:33.972Z pw:api   checking visibility of Locator("xpath=//input[@id='RegisterFirstName']")
+2023-02-03T11:40:34.126Z pw:api   checking visibility of Locator("xpath=//input[@id='RegisterLastName']")
+2023-02-03T11:40:34.290Z pw:api   checking visibility of Locator("xpath=//input[@id='RegisterEmail']")
+2023-02-03T11:40:34.444Z pw:api   checking visibility of Locator("xpath=//input[@id='RegisterPassword']")
+2023-02-03T11:40:34.601Z pw:api   checking visibility of Locator("xpath=//input[@id='RegisterRePassword']")
+2023-02-03T11:40:34.761Z pw:api   checking visibility of Locator("xpath=//button[@id='RegisterButtonComplete']")
+2023-02-03T11:40:34.919Z pw:api waiting for Locator("xpath=//input[@id='RegisterFirstName']")
+2023-02-03T11:40:34.923Z pw:api   locator resolved to <input type="text" required="" name="firstname" class="ÔÇª/>
+2023-02-03T11:40:34.925Z pw:api elementHandle.fill("Felipe")
+2023-02-03T11:40:34.925Z pw:api   waiting for element to be visible, enabled and editable
+2023-02-03T11:40:34.932Z pw:api   element is visible, enabled and editable
+2023-02-03T11:40:35.091Z pw:api waiting for Locator("xpath=//input[@id='RegisterLastName']")
+2023-02-03T11:40:35.093Z pw:api   locator resolved to <input type="text" required="" name="lastname" class="cÔÇª/>
+2023-02-03T11:40:35.094Z pw:api elementHandle.fill("Wilderman")
+2023-02-03T11:40:35.094Z pw:api   waiting for element to be visible, enabled and editable
+2023-02-03T11:40:35.101Z pw:api   element is visible, enabled and editable
+2023-02-03T11:40:35.261Z pw:api waiting for Locator("xpath=//input[@id='RegisterEmail']")
+2023-02-03T11:40:35.264Z pw:api   locator resolved to <input type="text" required="" name="email" id="RegisteÔÇª/>
+2023-02-03T11:40:35.265Z pw:api elementHandle.fill("Felipe.Wilderman@yahoo.com")
+2023-02-03T11:40:35.265Z pw:api   waiting for element to be visible, enabled and editable
+2023-02-03T11:40:35.271Z pw:api   element is visible, enabled and editable
+2023-02-03T11:40:35.431Z pw:api waiting for Locator("xpath=//input[@id='RegisterPassword']")
+2023-02-03T11:40:35.434Z pw:api   locator resolved to <input required="" type="password" name="password" clasÔÇª/>
+2023-02-03T11:40:35.436Z pw:api elementHandle.fill("B94bVUo2tm")
+2023-02-03T11:40:35.436Z pw:api   waiting for element to be visible, enabled and editable
+2023-02-03T11:40:35.442Z pw:api   element is visible, enabled and editable
+2023-02-03T11:40:35.596Z pw:api waiting for Locator("xpath=//input[@id='RegisterRePassword']")
+2023-02-03T11:40:35.599Z pw:api   locator resolved to <input required="" type="password" name="re_password" cÔÇª/>
+2023-02-03T11:40:35.600Z pw:api elementHandle.fill("B94bVUo2tm")
+2023-02-03T11:40:35.600Z pw:api   waiting for element to be visible, enabled and editable
+2023-02-03T11:40:35.606Z pw:api   element is visible, enabled and editable
+2023-02-03T11:40:35.778Z pw:api waiting for Locator("xpath=//button[@id='RegisterButtonComplete']")
+2023-02-03T11:40:35.781Z pw:api   locator resolved to <button type="submit" class="css-u642j5" id="RegisterButÔÇª>join us</button>
+2023-02-03T11:40:35.783Z pw:api attempting click action
+2023-02-03T11:40:35.783Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:35.799Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:35.799Z pw:api   scrolling into view if needed
+2023-02-03T11:40:35.799Z pw:api   done scrolling
+2023-02-03T11:40:35.802Z pw:api   performing click action
+2023-02-03T11:40:35.815Z pw:api   click action done
+2023-02-03T11:40:35.815Z pw:api   waiting for scheduled navigations to finish
+2023-02-03T11:40:35.816Z pw:api   navigations have finished
+2023-02-03T11:40:35.971Z pw:api waiting for Locator("xpath=//button[@id='SignInButton']")
+2023-02-03T11:40:35.974Z pw:api   locator resolved to <button id="SignInButton" class="css-ixez3h">Sign in</button>
+2023-02-03T11:40:35.975Z pw:api attempting click action
+2023-02-03T11:40:35.975Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:35.999Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:35.999Z pw:api   scrolling into view if needed
+2023-02-03T11:40:36.000Z pw:api   done scrolling
+2023-02-03T11:40:36.003Z pw:api   performing click action
+2023-02-03T11:40:36.015Z pw:api   navigated to "https://btube-app.onrender.com/#/login"
+2023-02-03T11:40:36.022Z pw:api   click action done
+2023-02-03T11:40:36.022Z pw:api   waiting for scheduled navigations to finish
+2023-02-03T11:40:36.024Z pw:api   navigations have finished
+2023-02-03T11:40:36.190Z pw:api waiting for Locator("xpath=//input[@id='SignInEmail']")
+2023-02-03T11:40:36.192Z pw:api   locator resolved to <input type="text" required="" name="email" id="SignInEÔÇª/>
+2023-02-03T11:40:36.194Z pw:api elementHandle.fill("Felipe.Wilderman@yahoo.com")
+2023-02-03T11:40:36.194Z pw:api   waiting for element to be visible, enabled and editable
+2023-02-03T11:40:36.200Z pw:api   element is visible, enabled and editable
+2023-02-03T11:40:36.357Z pw:api waiting for Locator("xpath=//input[@id='SignInPassword']")
+2023-02-03T11:40:36.360Z pw:api   locator resolved to <input required="" type="password" name="password" id="ÔÇª/>
+2023-02-03T11:40:36.361Z pw:api elementHandle.fill("B94bVUo2tm")
+2023-02-03T11:40:36.361Z pw:api   waiting for element to be visible, enabled and editable
+2023-02-03T11:40:36.367Z pw:api   element is visible, enabled and editable
+2023-02-03T11:40:36.529Z pw:api waiting for Locator("xpath=//button[@id='SignInButtonComplete']")
+2023-02-03T11:40:36.532Z pw:api   locator resolved to <button type="submit" class="css-edh2ml" id="SignInButtoÔÇª>login</button>
+2023-02-03T11:40:36.534Z pw:api attempting click action
+2023-02-03T11:40:36.534Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:36.549Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:36.549Z pw:api   scrolling into view if needed
+2023-02-03T11:40:36.551Z pw:api   done scrolling
+2023-02-03T11:40:36.555Z pw:api   performing click action
+2023-02-03T11:40:36.567Z pw:api   click action done
+2023-02-03T11:40:36.567Z pw:api   waiting for scheduled navigations to finish
+2023-02-03T11:40:36.568Z pw:api   navigations have finished
+2023-02-03T11:40:36.724Z pw:api   checking visibility of GetByRole(AriaRole.Button, new() { Name = "My movies" })
+2023-02-03T11:40:36.885Z pw:api   checking visibility of GetByRole(AriaRole.Button, new() { Name = "Profile" })
+2023-02-03T11:40:37.043Z pw:api   checking visibility of GetByRole(AriaRole.Button, new() { Name = "Sign out" })
+2023-02-03T11:40:37.249Z pw:api   navigated to "https://btube-app.onrender.com/#/"
+2023-02-03T11:40:37.906Z pw:api   checking visibility of GetByRole(AriaRole.Button, new() { Name = "My movies" })
+2023-02-03T11:40:38.122Z pw:api waiting for GetByRole(AriaRole.Button, new() { Name = "Profile" })
+2023-02-03T11:40:38.125Z pw:api   locator resolved to <button class="css-17ylx6u" id="OrdersPageButton">Profile</button>
+2023-02-03T11:40:38.127Z pw:api attempting click action
+2023-02-03T11:40:38.127Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:38.148Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:38.148Z pw:api   scrolling into view if needed
+2023-02-03T11:40:38.149Z pw:api   done scrolling
+2023-02-03T11:40:38.152Z pw:api   performing click action
+2023-02-03T11:40:38.162Z pw:api   navigated to "https://btube-app.onrender.com/#/profile"
+2023-02-03T11:40:38.173Z pw:api   click action done
+2023-02-03T11:40:38.173Z pw:api   waiting for scheduled navigations to finish
+2023-02-03T11:40:38.175Z pw:api   navigations have finished
+2023-02-03T11:40:38.331Z pw:api waiting for GetByRole(AriaRole.Button, new() { Name = "add credits" })
+2023-02-03T11:40:38.337Z pw:api   locator resolved to <button class="css-gq0owq">add credits</button>
+2023-02-03T11:40:41.569Z pw:api waiting for GetByRole(AriaRole.Button, new() { Name = "add credits" })
+2023-02-03T11:40:41.573Z pw:api   locator resolved to <button class="css-gq0owq">add credits</button>
+2023-02-03T11:40:41.574Z pw:api attempting click action
+2023-02-03T11:40:41.574Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:41.582Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:41.582Z pw:api   scrolling into view if needed
+2023-02-03T11:40:41.584Z pw:api   done scrolling
+2023-02-03T11:40:41.586Z pw:api   performing click action
+2023-02-03T11:40:41.594Z pw:api   click action done
+2023-02-03T11:40:41.594Z pw:api   waiting for scheduled navigations to finish
+2023-02-03T11:40:41.595Z pw:api   navigations have finished
+2023-02-03T11:40:42.579Z pw:api waiting for GetByPlaceholder("5")
+2023-02-03T11:40:42.582Z pw:api   locator resolved to <input min="1" required="" type="number" name="amount" ÔÇª/>
+2023-02-03T11:40:43.623Z pw:api waiting for GetByRole(AriaRole.Button, new() { Name = "buy" })
+2023-02-03T11:40:43.625Z pw:api   locator resolved to <button type="submit" class="css-gq0owq">buy</button>
+2023-02-03T11:40:45.030Z pw:api waiting for GetByPlaceholder("5")
+2023-02-03T11:40:45.033Z pw:api   locator resolved to <input min="1" required="" type="number" name="amount" ÔÇª/>
+2023-02-03T11:40:45.035Z pw:api elementHandle.fill("100")
+2023-02-03T11:40:45.035Z pw:api   waiting for element to be visible, enabled and editable
+2023-02-03T11:40:45.042Z pw:api   element is visible, enabled and editable
+2023-02-03T11:40:46.439Z pw:api waiting for GetByRole(AriaRole.Button, new() { Name = "buy" })
+2023-02-03T11:40:46.442Z pw:api   locator resolved to <button type="submit" class="css-gq0owq">buy</button>
+2023-02-03T11:40:46.443Z pw:api attempting click action
+2023-02-03T11:40:46.443Z pw:api   waiting for element to be visible, enabled and stable
+2023-02-03T11:40:46.466Z pw:api   element is visible, enabled and stable
+2023-02-03T11:40:46.466Z pw:api   scrolling into view if needed
+2023-02-03T11:40:46.467Z pw:api   done scrolling
+2023-02-03T11:40:46.470Z pw:api   performing click action
+2023-02-03T11:40:46.483Z pw:api   click action done
+2023-02-03T11:40:46.483Z pw:api   waiting for scheduled navigations to finish
+2023-02-03T11:40:46.484Z pw:api   navigations have finished
+2023-02-03T11:40:47.717Z pw:api   checking visibility of Locator("xpath=//p[contains(text(),'100')]")
+2023-02-03T11:40:50.652Z pw:api   checking visibility of Locator("xpath=//p[contains(text(),'100')]")
